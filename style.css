@@ -436,7 +436,7 @@ input{
 
 textarea{
   background-color: #fbfbfb; 
-	width: 405px; 
+	width: 350px; 
 	height: 150px; 
 	border-radius: 5px;  
 	border-style: solid; 
@@ -466,7 +466,7 @@ button{
 	border-color: #711716	; 
 	border-style: solid; 
 	border-radius: 10px;	
-	width: 420px;   
+	width: 300px;   
   cursor: pointer;
 }
 
